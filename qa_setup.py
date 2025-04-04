@@ -24,12 +24,12 @@ os.environ["NEO4J_USERNAME"] = "neo4j"
 os.environ["NEO4J_PASSWORD"] = "neo4j_password"
 
 # LLM to be used for querying the graph
-llm = ChatOllama(model="llama3.2", temperature=0)
+llm = ChatOllama(model="llama3.1", temperature=0)
 
 # Convert each relation to a Cypher command
 def process_relation(line):
     '''
-    Converts a line from a file with fromat (a) -[:RELATION]-> (b)
+    Converts a line from a file with format (a) -[:RELATION]-> (b)
     into a Cypher command to add the relation to a graph
     '''
     match = re.match(r"\((.*?)\)\s*-\[:(.*?)\]->\s*\((.*?)\)", line.strip())
@@ -52,12 +52,11 @@ def execute_cypher_file(file_path):
 
     graph = Neo4jGraph(url=uri, username=user, password=password)
 
-    with graph.session() as session:
-        with open(file_path, 'r') as file:
-            for line in file:
-                query = process_relation(line)
-                if query:
-                    session.run(query)
+    with open(file_path, 'r') as file:
+        for line in file:
+            query = process_relation(line)
+            if query:
+                graph.query(query)
     graph.close()
 
     return graph
@@ -67,13 +66,25 @@ def execute_cypher_file(file_path):
 # TODO: Provide a few examples for few-shot system
 examples = [
     {
-        "question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?",
-        "query": "MATCH (a:Person)-[:NECESSARY_IN]->(:Movie) RETURN count(DISTINCT a)",
-    },
+        "question": "Is naturopathy as effective as conventional therapy for treatment of menopausal symptoms?",
+        "query": "MATCH ",
+    },{
+        "question": "Can randomised trials rely on existing electronic data?",
+        "query": "",
+    },{
+        "question": "Is laparoscopic radical prostatectomy better than traditional retropubic radical prostatectomy?",
+        "query": "",
+    },{
+        "question": "Does bacterial gastroenteritis predispose people to functional gastrointestinal disorders?",
+        "query": "",
+    },{
+        "question": "Is early colonoscopy after admission for acute diverticular bleeding needed?",
+        "query": "",
+    }
 ]
 
 example_selector = SemanticSimilarityExampleSelector.from_examples(
-    examples, OllamaEmbeddings(model="llama3"), Neo4jVector, k=5, input_keys=["question"]
+    examples, OllamaEmbeddings(model="llama3.1"), Neo4jVector, k=5, input_keys=["question"]
 )
 
 # Function to create chain that generates few-shot Cypher queries from question
@@ -87,7 +98,7 @@ text2cypher_prompt = ChatPromptTemplate.from_messages(
             ),
         ),
         (
-            "human", # 
+            "human", 
             (
                 """You are a Neo4j expert. Given an input question, create a syntactically correct Cypher query to run.
 Do not wrap the response in any backticks or anything else. Respond with a Cypher statement only!
@@ -145,6 +156,7 @@ def main():
         
     # Create Cypher command from user query
     cypher = generate_cypher_from_query(graph, query)
+    print(cypher)
 
     # Query graph with Cypher command
     result = graph.query(cypher)
