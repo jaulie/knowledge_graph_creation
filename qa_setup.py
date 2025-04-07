@@ -16,7 +16,14 @@ os.environ["NEO4J_URI"] = "bolt://localhost:7687"
 os.environ["NEO4J_USERNAME"] = "neo4j"
 os.environ["NEO4J_PASSWORD"] = "neo4j_password"
 
-# Create a knowledge graph from a text file of relations
+# Helper function to remove special characters that may conflict with Cypher
+def sanitize_text(text):
+    # Remove problematic characters and optionally replace spaces
+    text = text.strip()
+    text = text.replace("'", "")  # remove apostrophes
+    text = re.sub(r"[^\w\s]", "", text)  # remove non-word characters except spaces
+    text = re.sub(r"\s+", "_", text)     # optional: replace spaces with underscores
+    return text
 
 # Convert each relation to a Cypher command
 def process_relation(line):
@@ -27,6 +34,9 @@ def process_relation(line):
     match = re.match(r"\((.*?)\)\s*-\[:(.*?)\]->\s*\((.*?)\)", line.strip())
     if match:
         node1, relation, node2 = match.groups()
+        node1 = sanitize_text(node1)
+        relation = sanitize_text(relation)
+        node2 = sanitize_text(node2)
         query = f"""
         MERGE (a:Node {{name: '{node1}'}})
         MERGE (b:Node {{name: '{node2}'}})
@@ -61,6 +71,8 @@ def main():
 
     # Build graph using a plain text file of relations
     execute_cypher_file(relations_file)
+
+    print("Success! Your graph has been created.")
 
 # Run the script
 if __name__ == "__main__":
