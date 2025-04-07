@@ -1,6 +1,6 @@
 '''
-Takes a text file of relations triples and establishes a connection to a Neo4j database. 
-Then transforms a question into a Cypher query and answers the question.
+Takes a text file of relations triples (relations.txt),
+establishes a connection to a Neo4j database, and creates a Neo4j graph.
 
 USAGE:
    python qa_setup.py relations.txt
@@ -9,22 +9,14 @@ USAGE:
 import os
 import sys
 import re
-from langchain_neo4j import Neo4jGraph, GraphCypherQAChain
-from langchain_ollama import ChatOllama, OllamaEmbeddings
-from langchain_core.example_selectors import SemanticSimilarityExampleSelector
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_neo4j import Neo4jVector
-from operator import add
-from typing import Annotated, List
-from typing_extensions import TypedDict
+from langchain_neo4j import Neo4jGraph
 
+# Get environment variables for Neo4j
 os.environ["NEO4J_URI"] = "bolt://localhost:7687"
 os.environ["NEO4J_USERNAME"] = "neo4j"
 os.environ["NEO4J_PASSWORD"] = "neo4j_password"
 
-# LLM to be used for querying the graph
-llm = ChatOllama(model="llama3.1", temperature=0)
+# Create a knowledge graph from a text file of relations
 
 # Convert each relation to a Cypher command
 def process_relation(line):
@@ -61,87 +53,6 @@ def execute_cypher_file(file_path):
 
     return graph
 
-# TODO: Implement guardrails, ensuring that the user's query is relevant
-
-# TODO: Provide a few examples for few-shot system
-examples = [
-    {
-        "question": "Is naturopathy as effective as conventional therapy for treatment of menopausal symptoms?",
-        "query": "MATCH ",
-    },{
-        "question": "Can randomised trials rely on existing electronic data?",
-        "query": "",
-    },{
-        "question": "Is laparoscopic radical prostatectomy better than traditional retropubic radical prostatectomy?",
-        "query": "",
-    },{
-        "question": "Does bacterial gastroenteritis predispose people to functional gastrointestinal disorders?",
-        "query": "",
-    },{
-        "question": "Is early colonoscopy after admission for acute diverticular bleeding needed?",
-        "query": "",
-    }
-]
-
-example_selector = SemanticSimilarityExampleSelector.from_examples(
-    examples, OllamaEmbeddings(model="llama3.1"), Neo4jVector, k=5, input_keys=["question"]
-)
-
-# Function to create chain that generates few-shot Cypher queries from question
-text2cypher_prompt = ChatPromptTemplate.from_messages(
-    [
-        (
-            "system", # 'system' message sets rules for LLM's behavior, ensuring strict formatting rules
-            (
-                "Given an input question, convert it to a Cypher query. No pre-amble."
-                "Do not wrap the response in any backticks or anything else. Respond with a Cypher statement only!"
-            ),
-        ),
-        (
-            "human", 
-            (
-                """You are a Neo4j expert. Given an input question, create a syntactically correct Cypher query to run.
-Do not wrap the response in any backticks or anything else. Respond with a Cypher statement only!
-Here is the schema information
-{schema}
-
-Below are a number of examples of questions and their corresponding Cypher queries.
-
-{fewshot_examples}
-
-User input: {question}
-Cypher query:"""
-            ),
-        ),
-    ]
-)
-
-# Creates a chain with prompt, llm, and StrOutputParser()
-text2cypher_chain = text2cypher_prompt | llm | StrOutputParser()
-
-def generate_cypher_from_query(graph: Neo4jGraph, question: str) -> str:
-    """
-    Generates a cypher statement based on the provided few-shot examples, schema, and user input.
-    Returns a string which is the Cypher query. 
-    """
-    NL = "\n"
-    fewshot_examples = (NL * 2).join(
-        [
-            f"Question: {el['question']}{NL}Cypher:{el['query']}"
-            for el in example_selector.select_examples(
-                {"question": question}
-            )
-        ]
-    )
-    generated_cypher = text2cypher_chain.invoke(
-        {
-            "question": question,
-            "fewshot_examples": fewshot_examples,
-            "schema": graph.schema,
-        }
-    )
-    return generated_cypher
-
 # Main
 def main():
     # File containing relations for the graph should be input as the first arg
@@ -149,19 +60,7 @@ def main():
     relations_file = sys.argv[1] 
 
     # Build graph using a plain text file of relations
-    graph = execute_cypher_file(relations_file)
-
-    # Retrieve query from user
-    query = input("Please enter your question for the knowledge graph: ")
-        
-    # Create Cypher command from user query
-    cypher = generate_cypher_from_query(graph, query)
-    print(cypher)
-
-    # Query graph with Cypher command
-    result = graph.query(cypher)
-
-    print(result)
+    execute_cypher_file(relations_file)
 
 # Run the script
 if __name__ == "__main__":
