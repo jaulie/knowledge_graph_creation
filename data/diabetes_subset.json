@@ -1,0 +1,808 @@
+{
+  "15703931": {
+    "QUESTION": "Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?",
+    "CONTEXTS": [
+      "Compared with computed tomography (CT) and magnetic resonance imaging (MRI), positron emission tomography (PET) may have additional value in the assessment of primary and recurrent cervical cancer. However, the degree of tumour uptake of (18)F-2-fluoro-2-deoxy-D: -glucose (FDG) uptake is sometimes influenced by diabetes mellitus (DM). Therefore, we conducted this prospective study to compare the diagnostic ability of FDG-PET in patients with cervical cancer complicated by DM and those without DM.",
+      "Patients with untreated locally advanced primary or clinically curable recurrent cervical carcinoma were enrolled. Both FDG-PET and MRI/CT scans were performed within 2 weeks. Patients were categorised into the following groups: hyperglycaemic DM (fasting blood sugar>126 mg/dl), euglycaemic DM and non-DM. The lesions were confirmed histologically or by clinical follow-up. The receiver operating characteristic curve method, with calculation of the area under the curve (AUC), was used to evaluate the discriminative power.",
+      "From February 2001 to January 2003, 219 patients (75 with primary and 144 with recurrent cervical cancer) were eligible for analysis. Sixteen had hyperglycaemic DM, 12 had euglycaemic DM and 191 were in the non-DM group. The diagnostic power of PET in the hyperglycaemic DM, euglycaemic DM and non-DM groups did not differ significantly with regard to the identification of either metastatic lesions (AUC, 0.967/0.947/0.925, P>0.05) or primary tumours/local recurrence (AUC, 0.950/0.938/0.979, P>0.05). Considering all DM patients, PET showed a significantly higher detection power than MRI/CT scans in respect of metastatic lesions (AUC=0.956 vs 0.824, P=0.012)."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Artifacts",
+      "Diabetes Complications",
+      "Female",
+      "Fluorodeoxyglucose F18",
+      "Humans",
+      "Middle Aged",
+      "Positron-Emission Tomography",
+      "Radiopharmaceuticals",
+      "Reproducibility of Results",
+      "Sensitivity and Specificity",
+      "Uterine Cervical Neoplasms"
+    ],
+    "YEAR": "2005",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "In comparison with its accuracy in non-DM patients, the accuracy of PET in cervical cancer patients with mild to moderate DM was not significantly reduced."
+  },
+  "27456836": {
+    "QUESTION": "Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?",
+    "CONTEXTS": [
+      "To explore whether electrochemiluminescence (ECL) assays can help improve prediction of time to type 1 diabetes in the TrialNet autoantibody-positive population.",
+      "TrialNet subjects who were positive for one or more autoantibodies (microinsulin autoantibody, GAD65 autoantibody [GADA], IA-2A, and ZnT8A) with available ECL-insulin autoantibody (IAA) and ECL-GADA data at their initial visit were analyzed; after a median follow-up of 24 months, 177 of these 1,287 subjects developed diabetes.",
+      "Univariate analyses showed that autoantibodies by radioimmunoassays (RIAs), ECL-IAA, ECL-GADA, age, sex, number of positive autoantibodies, presence of HLA DR3/4-DQ8 genotype, HbA1c, and oral glucose tolerance test (OGTT) measurements were all significantly associated with progression to diabetes. Subjects who were ECL positive had a risk of progression to diabetes within 6 years of 58% compared with 5% for the ECL-negative subjects (P<0.0001). Multivariate Cox proportional hazards models were compared, with the base model including age, sex, OGTT measurements, and number of positive autoantibodies by RIAs. The model with positivity for ECL-GADA and/or ECL-IAA was the best, and factors that remained significantly associated with time to diabetes were area under the curve (AUC) C-peptide, fasting C-peptide, AUC glucose, number of positive autoantibodies by RIAs, and ECL positivity. Adding ECL to the Diabetes Prevention Trial risk score (DPTRS) improved the receiver operating characteristic curves with AUC of 0.83 (P<0.0001)."
+    ],
+    "LABELS": [
+      "OBJECTIVE",
+      "RESEARCH DESIGN AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adolescent",
+      "Adult",
+      "Autoantibodies",
+      "Blood Glucose",
+      "C-Peptide",
+      "Child",
+      "Diabetes Mellitus, Type 1",
+      "Disease Progression",
+      "Female",
+      "Glycated Hemoglobin A",
+      "Humans",
+      "Insulin Antibodies",
+      "Longitudinal Studies",
+      "Luminescence",
+      "Male",
+      "Proportional Hazards Models",
+      "Prospective Studies",
+      "Risk Factors",
+      "Time Factors",
+      "Young Adult"
+    ],
+    "YEAR": "2016",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "ECL assays improved the ability to predict time to diabetes in these autoantibody-positive relatives at risk for developing diabetes. These findings might be helpful in the design and eligibility criteria for prevention trials in the future."
+  },
+  "22720085": {
+    "QUESTION": "Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?",
+    "CONTEXTS": [
+      "Several studies have shown associations between hyperglycemia and risk of cardiovascular disease (CVD) and mortality, yet glucose-lowering treatment does little to mitigate this risk. We examined whether associations between hyperglycemia and CVD risk were explained by underlying insulin resistance.",
+      "In 60 middle-aged individuals without diabetes we studied the associations of fasting plasma glucose, 2-hour post oral glucose tolerance test plasma glucose, insulin sensitivity as well as body fat percentage with CVD risk. Insulin sensitivity was measured as the glucose infusion rate during a euglycemic hyperinsulinemic clamp, body fat percentage was measured by dual X-ray absorptiometry, and CVD risk was estimated using the Framingham risk score. Associations of fasting plasma glucose, 2-hour plasma glucose, insulin sensitivity and body fat percentage with the Framingham risk score were assessed in linear regression models.",
+      "Both fasting and 2-hour plasma glucose levels were associated with higher Framingham risk score (fasting glucose: r(2) = 0.21; 2-hour glucose: r(2) = 0.24; P<0.001 for both), and insulin sensitivity with lower Framingham risk score (r(2) = 0.36; P<0.001). However, adjustment for insulin sensitivity and 2-hour glucose made the effect of fasting glucose non-significant (P = 0.060). Likewise, when adjusting for insulin sensitivity and fasting glucose, the association between 2-hour glucose and Framingham risk score disappeared (P = 0.143). In contrast, insulin sensitivity was still associated with Framingham risk score after adjusting for glucose levels (P<0.001). Body fat was not associated with Framingham risk score when taking insulin sensitivity into account (P = 0.550)."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Blood Glucose",
+      "Cardiovascular Diseases",
+      "Female",
+      "Humans",
+      "Hyperglycemia",
+      "Insulin Resistance",
+      "Male",
+      "Middle Aged",
+      "Risk Factors"
+    ],
+    "YEAR": "2012",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "The association between plasma glucose levels and CVD risk is mainly explained by insulin resistance, which raises the question of whether glucose lowering per se without changes in the processes that underlie hyperglycemia should be the sole clinical paradigm in the treatment of type 2 diabetes or its prevention."
+  },
+  "26556589": {
+    "QUESTION": "Does type 1 diabetes mellitus affect Achilles tendon response to a 10\u00a0km run?",
+    "CONTEXTS": [
+      "Achilles tendon structure deteriorates 2-days after maximal loading in elite athletes. The load-response behaviour of tendons may be altered in type 1 diabetes mellitus (T1DM) as hyperglycaemia accelerates collagen cross-linking. This study compared Achilles tendon load-response in participants with T1DM and controls.",
+      "Achilles tendon structure was quantified at day-0, day-2 and day-4 after a 10\u00a0km run. Ultrasound tissue characterisation (UTC) measures tendon structural integrity by classifying pixels as echo-type I, II, III or IV. Echo-type I has the most aligned collagen fibrils and IV has the least.",
+      "Participants were 7 individuals with T1DM and 10 controls. All regularly ran distances greater than 5\u00a0km and VISA-A scores indicated good tendon function (T1DM\u2009=\u200994\u2009\u00b1\u200911, control\u2009=\u200994\u2009\u00b1\u200910). There were no diabetic complications and HbA1c was 8.7\u2009\u00b1\u20092.6\u00a0mmol/mol for T1DM and 5.3\u2009\u00b1\u20090.4\u00a0mmol/mol for control groups. Baseline tendon structure was similar in T1DM and control groups - UTC echo-types (I-IV) and anterior-posterior thickness were all p\u2009>\u20090.05. No response to load was seen in either T1DM or control group over the 4-days post exercise."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Achilles Tendon",
+      "Adult",
+      "Case-Control Studies",
+      "Diabetes Mellitus, Type 1",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Running",
+      "Weight-Bearing"
+    ],
+    "YEAR": "2015",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "Active individuals with T1DM do not have a heightened Achilles tendon response to load, which suggests no increased risk of tendon injury. We cannot extrapolate these findings to sedentary individuals with T1DM."
+  },
+  "24139705": {
+    "QUESTION": "Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?",
+    "CONTEXTS": [
+      "Each patient received a smartphone with an insulin dose advisor (IDA) and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation function. Patients were classified as \"high users\" if the proportion of \"informed\" meals using the IDA exceeded 67% (median) and as \"low users\" if not. Also analyzed was the respective impact of the IDA function and teleconsultations on the final HbA1c levels.",
+      "Among the high users, the proportion of informed meals remained stable from baseline to the end of the study 6months later (from 78.1\u00b121.5% to 73.8\u00b125.1%; P=0.107), but decreased in the low users (from 36.6\u00b129.4% to 26.7\u00b128.4%; P=0.005). As expected, HbA1c improved in high users from 8.7% [range: 8.3-9.2%] to 8.2% [range: 7.8-8.7%]in patients with (n=26) vs without (n=30) the benefit of telemonitoring/teleconsultation (-0.49\u00b10.60% vs -0.52\u00b10.73%, respectively; P=0.879). However, although HbA1c also improved in low users from 9.0% [8.5-10.1] to 8.5% [7.9-9.6], those receiving support via teleconsultation tended to show greater improvement than the others (-0.93\u00b10.97 vs -0.46\u00b11.05, respectively; P=0.084)."
+    ],
+    "LABELS": [
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Blood Glucose",
+      "Cell Phone",
+      "Diabetes Mellitus, Type 1",
+      "Female",
+      "Glycated Hemoglobin A",
+      "Humans",
+      "Hypoglycemic Agents",
+      "Insulin",
+      "Insulin Infusion Systems",
+      "Internet",
+      "Male",
+      "Patient Compliance",
+      "Reminder Systems",
+      "Remote Consultation",
+      "Self Care",
+      "Software",
+      "Telemedicine"
+    ],
+    "YEAR": "2014",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "The Diabeo system improved glycaemic control in both high and low users who avidly used the IDA function, while the greatest improvement was seen in the low users who had the motivational support of teleconsultations."
+  },
+  "15939071": {
+    "QUESTION": "High cumulative insulin exposure: a risk factor of atherosclerosis in type 1 diabetes?",
+    "CONTEXTS": [
+      "Since insulin therapy might have an atherogenic effect, we studied the relationship between cumulative insulin dose and atherosclerosis in type 1 diabetes. We have focused on patients with type 1 diabetes instead of type 2 diabetes to minimise the effect of insulin resistance as a potential confounder.",
+      "An observational study was performed in 215 subjects with type 1 diabetes treated with multiple insulin injection therapy. Atherosclerosis was assessed by measurement of carotid intima-media thickness (CIMT).",
+      "The cumulative dose of regular insulin showed a positive and significant relation with CIMT: increase of 21 microm in CIMT per S.D. of insulin use (95% CI: 8-35 adjusted for gender and age), which remained unchanged after adjustment for duration of diabetes, HbA1c, BMI, pulse pressure, physical activity and carotid lumen diameter. A similar relation was found for intermediate-acting insulin: 15.5 microm per S.D. (2-29), which was no longer present after further adjustment."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Arteriosclerosis",
+      "Carotid Arteries",
+      "Diabetes Mellitus, Type 1",
+      "Dose-Response Relationship, Drug",
+      "Female",
+      "Humans",
+      "Hypoglycemic Agents",
+      "Insulin",
+      "Male",
+      "Middle Aged",
+      "Multivariate Analysis",
+      "Risk Factors",
+      "Tunica Intima",
+      "Tunica Media",
+      "Ultrasonography"
+    ],
+    "YEAR": "2005",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "These findings provide evidence that a high cumulative dose of regular insulin is a risk factor for atherosclerosis."
+  },
+  "18948835": {
+    "QUESTION": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?",
+    "CONTEXTS": [
+      "Neuromedin U (NmU) is a neuropeptide with anorexigenic activity. Two receptor subtypes (NmUR1 and NmUR2) confer the effects of NmU on target cells. We have recently demonstrated that NmU reduces insulin secretion from isolated pancreatic islets. Aim of our current study is to investigate the role of somatostatin at mediating the effects of NmU on insulin secretion.",
+      "Expression of NmU in the pancreas was detected by immunohistochemistry. Insulin and somatostatin secretion from in situ perfused rat pancreas and isolated pancreatic islets was measured by radioimmunoassay. The paracrine effects of somatostatin within pancreatic islets were blocked by cyclosomatostatin, a somatostatin receptor antagonist.",
+      "Receptor subtype NmUR1, but not NmUR2, was expressed in the endocrine pancreas, predominantly in the periphery. Neuromedin U reduced insulin secretion from in situ perfused rat pancreas and stimulated somatostatin secretion from isolated pancreatic islets. Neuromedin U stimulated somatostatin secretion at both physiological and supraphysiological glucose concentrations. Cyclosomatostatin increased insulin secretion and reduced NmU-induced inhibition of insulin secretion."
+    ],
+    "LABELS": [
+      "OBJECTIVES",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Animals",
+      "Insulin",
+      "Neuropeptides",
+      "Pancreas",
+      "Rats",
+      "Rats, Wistar",
+      "Receptors, Neurotransmitter",
+      "Somatostatin"
+    ],
+    "YEAR": "2009",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Neuromedin U reduces insulin and increases somatostatin secretion. Blockade of somatostatin action abolishes the inhibition of insulin secretion by NmU. The results of the study suggest that somatostatin mediates the inhibitory action of NmU on insulin secretion."
+  },
+  "15125825": {
+    "QUESTION": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?",
+    "CONTEXTS": [
+      "To evaluate the effects of insulin 30/70 twice daily or bedtime isophane (NPH) insulin plus continued sulfonylurea and metformin in patients with type 2 diabetes in primary care.",
+      "Open-label, randomized trial.",
+      "Persons younger than 76 years with type 2 diabetes whose disease had not been controlled with oral hypoglycemic agents alone. A total of 64 insulin-naive patients treated with maximal feasible dosages of sulfonylurea and metformin (baseline glycosylated hemoglobin [HbA1c]=8.5%) were randomly assigned to insulin monotherapy (IM group; n=31) or insulin in addition to unchanged oral hypoglycemic medication (IC group; n=33) for 12 months. Insulin doses were adjusted to obtain fasting glucose<7.0 mmol/L and postprandial glucose<10.0 mmol/L.",
+      "Outcome measures included HbA1c, treatment failure, weight, hypoglycemic events and symptoms, satisfaction with treatment, general well-being, and fear of injecting insulin and testing.",
+      "HbA1c improved from 8.3% to 7.6% in the IC group, and from 8.8% to 7.6% in the IM group (P=NS). The IC group had 24% treatment failures, compared with 2% in the IM group (P=.09). Patients in the IC group had less weight gain than those in the IM group (1.3 vs 4.2 kg; P=.01), and they reported fewer hypoglycemic events (2.7 vs 4.3; P=.02). Increased satisfaction with treatment was equal in the 2 groups, and general well-being improved by 3.0 points more in the IC group (P=.05). Fear of self-injecting and self-testing did not differ."
+    ],
+    "LABELS": [
+      "OBJECTIVE",
+      "STUDY DESIGN",
+      "POPULATION",
+      "OUTCOMES MEASURED",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Analysis of Variance",
+      "Diabetes Mellitus, Type 2",
+      "Drug Therapy, Combination",
+      "Female",
+      "Glycated Hemoglobin A",
+      "Humans",
+      "Hypoglycemic Agents",
+      "Insulin",
+      "Insulin, Isophane",
+      "Male",
+      "Metformin",
+      "Middle Aged",
+      "Sulfonylurea Compounds"
+    ],
+    "YEAR": "2004",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Bedtime NPH insulin added to maximal therapy with sulfonylurea and metformin is an effective, simple, well-tolerated approach for patients with uncontrolled type 2 diabetes."
+  },
+  "12006913": {
+    "QUESTION": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+    "CONTEXTS": [
+      "Studies on coronary risk factors in men and women are mainly based on mortality data and few compare results of both sexes with consistent study design and diagnostic criteria. This study assesses the major risk factors for coronary events in men and women from the Reykjavik Study.",
+      "Within a prospective, population-based cohort study individuals without history of myocardial infarction were identified and the relative risk of baseline variables was assessed in relation to verified myocardial infarction or coronary death during follow-up.",
+      "Of the 9681 women and 8888 men who attended risk assessment from 1967-1991, with follow-up period of up to 28 years, 706 women and 1700 men suffered a non-fatal myocardial infarction or coronary death.",
+      "Serum cholesterol was a significant risk factor for both sexes, with hazard ratios (HR) decreasing with age. Systolic blood pressure was a stronger risk factor for women as was ECG-confirmed left ventricular hypertrophy (women HR 2.89, 95% confidence interval [CI] 1.67-5.01; men HR 1.11 [CI 0.86-1.43]). Fasting blood glucose>or =6.7 mmol/L identified significantly higher risk for women (HR 2.65) than men (HR 2.08) as did self-reported diabetes. Triglyceride risk was significantly higher for women and decreased significantly with age. Smoking increased risk two- to five-fold, increasing with dose, for women, which was significantly higher than the doubling in risk for men."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "DESIGN",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Age Factors",
+      "Biomarkers",
+      "Blood Glucose",
+      "Blood Pressure",
+      "Cohort Studies",
+      "Diabetes Complications",
+      "Diabetes Mellitus",
+      "Electrocardiography",
+      "Endpoint Determination",
+      "Female",
+      "Follow-Up Studies",
+      "Humans",
+      "Hypertrophy, Left Ventricular",
+      "Iceland",
+      "Lipids",
+      "Male",
+      "Middle Aged",
+      "Multivariate Analysis",
+      "Myocardial Infarction",
+      "Prospective Studies",
+      "Risk Factors",
+      "Sex Factors",
+      "Smoking",
+      "Women's Health"
+    ],
+    "YEAR": "2002",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "This large study of the major risk factors compared between the sexes demonstrates similar relative risk of myocardial infarction associated with cholesterol for both sexes, however, the relative risk is higher in women for many other risk factors such as smoking, diabetes, elevated triglycerides and left ventricular hypertrophy."
+  },
+  "23224030": {
+    "QUESTION": "Do European people with type 1 diabetes consume a high atherogenic diet?",
+    "CONTEXTS": [
+      "Individuals with type 1 diabetes have a high risk of developing cardiovascular diseases, and it has been reported that they consume a high atherogenic diet. We examined how nutrient intake and adherence to current European nutritional recommendations evolved in a large cohort of European individuals with type 1 diabetes over a period of 7 years.SUBJECTS/",
+      "We analysed data from the EURODIAB Prospective Complications Study, a European multicentre prospective cohort study. Standardized 3-day dietary records were employed in individuals with type 1 diabetes. One thousand one hundred and two patients (553 men, 549 women, baseline age 33 \u00b1 10 years, duration 15 \u00b1 9 years) had complete nutritional data available at baseline and after 7 years. We calculated mean differences in reported nutrients over time and adjusted these for age, gender, HbA1c and BMI with ANOVA models.",
+      "Compared to baseline, there were minor changes in nutrients. Reported protein (-0.35% energy (en), fat (-1.07% en), saturated fat (-0.25% en) and cholesterol (-7.42 mg/1000 kcal) intakes were lower, whereas carbohydrate (+1.23% en) and fibre (+0.46 g/1000 kcal) intakes were higher at the 7-year follow-up. European recommendations for adequate nutrient intakes were followed in individuals with type 1 diabetes for protein (76% at baseline and 78% at follow-up), moderately for fat (34, 40%), carbohydrate (34, 41%) and cholesterol (39, 47%), but poorly for fibre (1.4, 2.4%) and saturated fat (11, 13%)."
+    ],
+    "LABELS": [
+      "OBJECTIVES",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adolescent",
+      "Adult",
+      "Body Mass Index",
+      "Body Weight",
+      "Cardiovascular Diseases",
+      "Cholesterol",
+      "Cholesterol, Dietary",
+      "Diabetes Mellitus, Type 1",
+      "Diet Records",
+      "Diet, Atherogenic",
+      "Dietary Carbohydrates",
+      "Dietary Fiber",
+      "Dietary Proteins",
+      "Energy Intake",
+      "European Continental Ancestry Group",
+      "Female",
+      "Follow-Up Studies",
+      "Humans",
+      "Insulin",
+      "Male",
+      "Middle Aged",
+      "Motor Activity",
+      "Nutrition Assessment",
+      "Nutritional Status",
+      "Prospective Studies",
+      "Recommended Dietary Allowances",
+      "Young Adult"
+    ],
+    "YEAR": "2013",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "European individuals with type 1 diabetes consume a high atherogenic diet as few patients met recommendations for dietary fibre and saturated fat. This study showed minor changes in dietary nutrients and energy intakes over a period of 7 years. Nutrition education needs particular focus on strategies to increase dietary fibre and reduce saturated fat to exploit their potential benefit."
+  },
+  "26536001": {
+    "QUESTION": "Is There an Additional Value of Using Somatostatin Receptor Subtype 2a Immunohistochemistry Compared to Somatostatin Receptor Scintigraphy Uptake in Predicting Gastroenteropancreatic Neuroendocrine Tumor Response?",
+    "CONTEXTS": [
+      "It is unknown whether tumoral somatostatin receptor subtype 2a (sst2a) immunohistochemistry (IHC) has additional value compared to somatostatin receptor scintigraphy (SRS) uptake using OctreoScan\u00ae in predicting response to peptide receptor radiotherapy using 177Lu-octreotate (PRRT) in patients with gastroenteropancreatic neuroendocrine tumors (GEP-NETs). The aims of this study were: (1) to establish the percentage of sst2a immunopositivity in GEP-NET samples of PRRT-treated patients, (2) to determine the relationship between best GEP-NET response using RECIST 1.0 criteria 1 year after PRRT and tumoral sst2a IHC, and (3) to compare characteristics of patients with sst2a IHC-negative and -positive tumors.",
+      "All 73 consecutive patients were selected for PRRT based on a positive SRS. Radiological response was scored according to RECIST 1.0 criteria. sst2a status was detected on tumor samples by IHC.",
+      "In total, 93% of GEP-NET samples showed sst2a IHC positivity. No statistically significant relationship was observed between in vitro sst2a expression and in vivo best GEP-NET response 1 year after PRRT (p = 0.47). Sex, primary tumor site, disease stage, ENETS TNM classification, Ki-67 index, highest serum chromogranin-A level, and highest neuron-specific enolase level were not significantly different between patients with negative and positive sst2a tumoral IHC with the exception of age at diagnosis (p = 0.007)."
+    ],
+    "LABELS": [
+      "BACKGROUND AND AIMS",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Aged",
+      "Antineoplastic Agents",
+      "Female",
+      "Gene Expression Regulation, Neoplastic",
+      "Humans",
+      "Immunohistochemistry",
+      "Intestinal Neoplasms",
+      "Male",
+      "Middle Aged",
+      "Neuroendocrine Tumors",
+      "Octreotide",
+      "Pancreatic Neoplasms",
+      "Radionuclide Imaging",
+      "Receptors, Somatostatin",
+      "Stomach Neoplasms",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2016",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "sst2a IHC of tumor samples has no additional value compared to SRS uptake using OctreoScan\u00ae in predicting tumor response after PRRT."
+  },
+  "22266735": {
+    "QUESTION": "Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?",
+    "CONTEXTS": [
+      "The International Association of the Diabetes and Pregnancy Study Groups (IADPSG) recently recommended new criteria for diagnosing gestational diabetes mellitus (GDM). This study was undertaken to determine whether adopting the IADPSG criteria would be cost-effective, compared with the current standard of care.",
+      "We developed a decision analysis model comparing the cost-utility of three strategies to identify GDM: 1) no screening, 2) current screening practice (1-h 50-g glucose challenge test between 24 and 28 weeks followed by 3-h 100-g glucose tolerance test when indicated), or 3) screening practice proposed by the IADPSG. Assumptions included that 1) women diagnosed with GDM received additional prenatal monitoring, mitigating the risks of preeclampsia, shoulder dystocia, and birth injury; and 2) GDM women had opportunity for intensive postdelivery counseling and behavior modification to reduce future diabetes risks. The primary outcome measure was the incremental cost-effectiveness ratio (ICER).",
+      "Our model demonstrates that the IADPSG recommendations are cost-effective only when postdelivery care reduces diabetes incidence. For every 100,000 women screened, 6,178 quality-adjusted life-years (QALYs) are gained, at a cost of $125,633,826. The ICER for the IADPSG strategy compared with the current standard was $20,336 per QALY gained. When postdelivery care was not accomplished, the IADPSG strategy was no longer cost-effective. These results were robust in sensitivity analyses."
+    ],
+    "LABELS": [
+      "OBJECTIVE",
+      "RESEARCH DESIGN AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Cost-Benefit Analysis",
+      "Diabetes, Gestational",
+      "Female",
+      "Glucose Tolerance Test",
+      "Humans",
+      "Mass Screening",
+      "Pregnancy",
+      "Quality-Adjusted Life Years"
+    ],
+    "YEAR": "2012",
+    "reasoning_required_pred": "maybe",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "The IADPSG recommendation for glucose screening in pregnancy is cost-effective. The model is most sensitive to the likelihood of preventing future diabetes in patients identified with GDM using postdelivery counseling and intervention."
+  },
+  "17894828": {
+    "QUESTION": "Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist?",
+    "CONTEXTS": [
+      "An association has been described between elevated serum angiotensin-converting enzyme (ACE) and an increased risk of severe hypoglycaemia (SH). To ascertain whether this reported association could be replicated in a different country, it was re-examined in 300 individuals with Type 1 diabetes.",
+      "People with Type 1 diabetes, none of whom was taking renin-angiotensin system blocking drugs, were recruited. Participants recorded the frequency with which they had experienced SH. Glycated haemoglobin (HbA(1c)) and serum ACE were measured. The difference in the incidence of SH between different quartiles of ACE activity and the relationship between serum ACE and SH were examined using non-parametric statistical tests and a negative binomial model.",
+      "Data were obtained from 300 patients [158 male; HbA(1c) median (range) 8.2% (5.2-12.8%), median age 36 years (16-88); duration of diabetes 14.5 years (2-49)]. The incidence of SH was 0.93 episodes per patient year. The mean incidence of SH in the top and bottom quartiles of ACE activity was 0.5 and 1.7 episodes per patient year, respectively, but this difference was not statistically significant (P = 0.075). Spearman's test showed a very weak, although statistically significant, association between serum ACE level and SH incidence (r = 0.115, P = 0.047). The binomial model also showed a statistically significant (P = 0.002), but clinically weak, relationship between serum ACE and SH."
+    ],
+    "LABELS": [
+      "AIMS",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adolescent",
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Chromatography, High Pressure Liquid",
+      "Diabetes Mellitus, Type 1",
+      "Female",
+      "Glycated Hemoglobin A",
+      "Humans",
+      "Hypoglycemia",
+      "Incidence",
+      "Male",
+      "Middle Aged",
+      "Peptidyl-Dipeptidase A",
+      "Spectrophotometry"
+    ],
+    "YEAR": "2007",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "The present survey showed a weak relationship between serum ACE and the frequency of SH, the clinical relevance of which is unclear. This limits the proposed role for serum ACE as an index of risk for SH."
+  },
+  "12145243": {
+    "QUESTION": "Are lower fasting plasma glucose levels at diagnosis of type 2 diabetes associated with improved outcomes?",
+    "CONTEXTS": [
+      "Type 2 diabetes may be present for several years before diagnosis, by which time many patients have already developed diabetic complications. Earlier detection and treatment may reduce this burden, but evidence to support this approach is lacking.",
+      "Glycemic control and clinical and surrogate outcomes were compared for 5,088 of 5,102 U.K. Diabetes Prospective Study participants according to whether they had low (<140 mg/dl [<7.8 mmol/l]), intermediate (140 to<180 mg/dl [7.8 to<10.0 mmol/l]), or high (>or =180 mg/dl [>or =10 mmol/l]) fasting plasma glucose (FPG) levels at diagnosis. Individuals who presented with and without diabetic symptoms were also compared.",
+      "Fewer people with FPG in the lowest category had retinopathy, abnormal biothesiometer measurements, or reported erectile dysfunction. The rate of increase in FPG and HbA(1c) during the study was identical in all three groups, although absolute differences persisted. Individuals in the low FPG group had a significantly reduced risk for each predefined clinical outcome except stroke, whereas those in the intermediate group had significantly reduced risk for each outcome except stroke and myocardial infarction. The low and intermediate FPG groups had a significantly reduced risk for progression of retinopathy, reduction in vibration sensory threshold, or development of microalbuminuria."
+    ],
+    "LABELS": [
+      "OBJECTIVE",
+      "RESEARCH DESIGN AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Blood Glucose",
+      "Diabetes Mellitus, Type 2",
+      "Diabetic Retinopathy",
+      "Disease-Free Survival",
+      "Fasting",
+      "Female",
+      "Glycated Hemoglobin A",
+      "Humans",
+      "Hyperglycemia",
+      "Male",
+      "Middle Aged",
+      "Predictive Value of Tests",
+      "Prospective Studies",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2002",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "People presenting with type 2 diabetes with lower initial glycemia who may be earlier in the course of their disease had fewer adverse clinical outcomes despite similar glycemic progression. Since most such people are asymptomatic at diagnosis, active case detection programs would be required to identify them."
+  },
+  "16971978": {
+    "QUESTION": "Are complex coronary lesions more frequent in patients with diabetes mellitus?",
+    "CONTEXTS": [
+      "Coronary atherosclerotic burden is excessive in diabetic patients. Diabetes mellitus (DM) is an independent predictor for both death and myocardial infarction. It is not known whether the prevalence of complex coronary lesions, such as bifurcation and ostial lesions, is different in diabetics from nondiabetics.",
+      "The aim of present study was to investigate the prevalence of these lesions in patients with DM.",
+      "One thousand fourteen consecutive patients (mean age 61.3+/-10.7 years) were investigated. Coronary angiograms were examined for bifurcation and ostial lesions using a digital quantitative system. Patients were classified as diabetic (n=281) or nondiabetic (n=733).",
+      "Patient mean age, and rates of hypertension and hyperlipidemia were significantly higher in the diabetic group than in the nondiabetic group (P<0.0001), although smoking was significantly lower (P=0.001). Reasons for coronary angiography and treatment were comparable between the two groups. The prevalence of bifurcation lesions and ostial lesions was significantly greater in the diabetic group than in the nondiabetic group (9.8% versus 4.3% [P=0.001] and 38.4% versus 29.2% [P=0.003]in the diabetic group versus the nondiabetic group). The presence of DM and greater age were found to be independent predictors for bifurcation lesions (OR=2.27 [P=0.004] and OR=1.03 [P=0.01], for DM and age, respectively) and ostial lesions (OR=1.40 [P=0.027] and OR=1.02 [P=0.001], for DM and age, respectively) in multivariate analysis."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "OBJECTIVE",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Coronary Angiography",
+      "Coronary Artery Disease",
+      "Diabetes Mellitus",
+      "Female",
+      "Humans",
+      "Hyperlipidemias",
+      "Hypertension",
+      "Male",
+      "Middle Aged",
+      "Prevalence",
+      "Turkey"
+    ],
+    "YEAR": "2006",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Complex coronary lesions such as bifurcation and ostial lesions were significantly more common in diabetic patients than in nondiabetic patients. Greater age and the presence of DM were independent predictors for these complex lesions. These results may help to explain the poor prognosis of coronary artery disease among diabetic patients."
+  },
+  "22522271": {
+    "QUESTION": "Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?",
+    "CONTEXTS": [
+      "Forty obese patients with T2DM without clinical features of Cushing's syndrome were recruited. Plasma, urinary and salivary cortisol were measured directly by an enzyme-linked immunosorbent assay using monoclonal antibodies. The specificities of the three tests using various cutoffs were calculated and compared, employing the assumption that none of the patients had hypercortisolism.",
+      "The patients had a mean age and BMI of 56 years (range 31-75) and 37 kg/m\u00b2 (31-56) respectively. All 40 provided late-night salivary cortisol samples. Thirty-eight patients completed all three tests. Two patients only completed two screening tests. The specificities of late-night salivary cortisol (cutoff 10 nmol/L), 24hr UFC (400 nmol) and 1mg DST (50 nmol/L) were 70% (95% CI 53-83%), 90% (76-97%) and 72% (55-85%) respectively. The specificity of late-night salivary cortisol was significantly less than 24 hr UFC (P=0.039) but not 1mg DST (P>0.99)."
+    ],
+    "LABELS": [
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Aged",
+      "Cushing Syndrome",
+      "Diabetes Mellitus, Type 2",
+      "Female",
+      "Humans",
+      "Hydrocortisone",
+      "Male",
+      "Middle Aged",
+      "Obesity",
+      "Saliva",
+      "Time Factors",
+      "Urinalysis"
+    ],
+    "YEAR": "2012",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "yes",
+    "final_decision": "no",
+    "LONG_ANSWER": "Late-night salivary cortisol has a poor specificity for cortisol excess in obese patients with T2DM with 24 hr UFC showing significantly better specificity in our population."
+  },
+  "15095519": {
+    "QUESTION": "Are patients with diabetes receiving the same message from dietitians and nurses?",
+    "CONTEXTS": [
+      "The purpose of this study was to determine if registered dietitian (RD) and registered nurse (RN) certified diabetes educators (CDEs) provide similar recommendations regarding carbohydrates and dietary supplements to individuals with diabetes.",
+      "A survey was mailed to CDEs in the southern United States. Participants were asked to indicate their recommendations for use of carbohydrates, fiber, artificial sweeteners, and 12 selected dietary and herbal supplements when counseling individuals with diabetes.",
+      "The survey sample consisted of 366 CDEs: 207 were RNs and 159 were RDs. No statistically significant differences were found between RNs and RDs in typical carbohydrate recommendations for treatment of diabetes. However, RDs were more likely than RNs to make recommendations for fiber intake or use of the glycemic index. A significant difference also was found in the treatment of hypoglycemia: RNs were more likely than RDs to recommend consuming a carbohydrate source with protein to treat hypoglycemia."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Certification",
+      "Diabetes Mellitus",
+      "Diet, Diabetic",
+      "Dietary Carbohydrates",
+      "Dietary Fiber",
+      "Dietary Proteins",
+      "Dietetics",
+      "Female",
+      "Guideline Adherence",
+      "Humans",
+      "Male",
+      "Nurse Clinicians",
+      "Nutritional Sciences",
+      "Patient Education as Topic",
+      "Phytotherapy",
+      "Practice Guidelines as Topic",
+      "Self Care",
+      "Surveys and Questionnaires",
+      "Sweetening Agents",
+      "United States"
+    ],
+    "YEAR": null,
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "yes",
+    "final_decision": "no",
+    "LONG_ANSWER": "Although some differences existed, RD and RN CDEs are making similar overall recommendations in the treatment of individuals with diabetes."
+  },
+  "16241924": {
+    "QUESTION": "Does parity increase insulin resistance during pregnancy?",
+    "CONTEXTS": [
+      "To study the effect of parity on impairment of insulin sensitivity during pregnancy and on the risk of gestational diabetes (GDM).",
+      "We studied the relationship between parity and peripheral insulin sensitivity index (ISI(OGTT)) or GDM in 1880 caucasian women, who underwent a 100-g, 3-h oral glucose tolerance test (OGTT) between the 24th and 28th gestational week and in 75 women who underwent an OGTT in two consecutive pregnancies. A proxy for beta-cell function (basal plasma C peptide/fasting plasma glucose; CP/FPG) was also measured.",
+      "By univariate analysis parity was related to decreased ISI(OGTT) and to increased CP/FPG in those with parity>3 and likewise GDM, diagnosed in 124 women (6.58%), was linearly related to parity (P = 0.0034) and strongly age dependent. The relationships between parity and ISI(OGTT), CP/FPG and GDM were no longer significant after adjustment for age, pregestational body mass index (BMI), and weight gain. GDM was significantly related to age and pregestational weight, while ISI(OGTT) and CP/FPG were inversely related to prepregnancy BMI or weight gain. In comparison with the index pregnancy, the subsequent pregnancy was characterized by an increase in actual and prepregnancy BMI, in 2 h area under curve (AUC) glucose and by a decrease in ISI(OGTT) (P = 0.0001). The longer the time interval between pregnancies and the higher the increment in pregestational BMI or in weight gain during the pregnancy, the greater were the ISI(OGTT) decrease and 2-h AUC glucose increase."
+    ],
+    "LABELS": [
+      "AIMS",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Blood Glucose",
+      "Body Mass Index",
+      "Cross-Sectional Studies",
+      "Diabetes, Gestational",
+      "Female",
+      "Glucose Tolerance Test",
+      "Humans",
+      "Insulin Resistance",
+      "Parity",
+      "Pregnancy",
+      "Pregnancy Trimester, Third",
+      "Retrospective Studies",
+      "Risk Factors",
+      "Weight Gain"
+    ],
+    "YEAR": "2005",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "Parity is not directly linked to insulin sensitivity deterioration, to CP/FPG increase during pregnancy, or to GDM appearance, although it is linked through the mediation of progressive ageing and weight gain either before or during pregnancy, when there is a sufficiently long time interval between pregnancies."
+  },
+  "15787677": {
+    "QUESTION": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+    "CONTEXTS": [
+      "Twenty-seven healthy normal glucose-tolerant humans with either a previous diagnosis of gestational diabetes or having two parents with Type 2 diabetes and 27 healthy adults who had no history of diabetes were recruited. Maximal oxygen uptake was assessed using an incremental exercise test to exhaustion. Skin microvascular function was assessed using laser Doppler techniques as the maximum skin hyperaemic response to a thermal stimulus (maximum hyperaemia) and the forearm skin blood flow response to the iontophoretic application of acetylcholine (ACh) and sodium nitroprusside.",
+      "Maximal oxygen uptake was not significantly different in the 'at-risk' group compared with healthy controls. Maximum hyperaemia was reduced in those 'at risk' (1.29 +/- 0.30 vs. 1.46 +/- 0.33 V, P = 0.047); however, the peak response to acetylcholine or sodium nitroprusside did not differ in the two groups. A significant positive correlation was demonstrated between maximal oxygen uptake and maximum hyperaemia (r = 0.52, P = 0.006 l/min and r = 0.60, P = 0.001 ml/kg/min) and peak ACh response (r = 0.40, P = 0.04 l/min and r = 0.47, P = 0.013 ml/kg/min) in the 'at-risk' group when expressed in absolute (l/min) or body mass-related (ml/kg/min) terms. No significant correlations were found in the control group."
+    ],
+    "LABELS": [
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Anthropometry",
+      "Blood Glucose",
+      "Blood Pressure",
+      "Diabetes Mellitus, Type 2",
+      "Diabetes, Gestational",
+      "Disease Susceptibility",
+      "Female",
+      "Glucose Tolerance Test",
+      "Humans",
+      "Insulin",
+      "Lipids",
+      "Male",
+      "Microcirculation",
+      "Middle Aged",
+      "Motor Activity",
+      "Oxygen Consumption",
+      "Physical Fitness",
+      "Pregnancy",
+      "Skin"
+    ],
+    "YEAR": "2005",
+    "reasoning_required_pred": "maybe",
+    "reasoning_free_pred": "maybe",
+    "final_decision": "maybe",
+    "LONG_ANSWER": "In this 'at-risk' group with skin microvascular dysfunction maximal oxygen uptake was not reduced compared with healthy controls. However, in the 'at-risk' group alone, individuals with higher levels of aerobic fitness also had better microvascular and endothelial responsiveness."
+  },
+  "19406119": {
+    "QUESTION": "Does telmisartan prevent hepatic fibrosis in rats with alloxan-induced diabetes?",
+    "CONTEXTS": [
+      "This study evaluated the effect of telmisartan on the livers of diabetic rats and also aimed to determine the hepatic distribution and role of transforming growth factor beta (TGF-beta) in diabetes-related hepatic degeneration while taking into account the possible protective effects of telmisartan.",
+      "Fifteen adult male rats were used and divided into three groups: the non-diabetic healthy group, alloxan-induced diabetic control group, and the alloxan-induced diabetic telmisartan group. The non-diabetic healthy group and the diabetic control group were exposed to saline for 30 days, while the group treated with diabetic drugs was orally administered telmisartan for 30 days (10 mg/kg/day). At the end of the experiment, the rats were sacrificed and the livers were dissected and transferred into the fixation solution. The livers were then evaluated using stereological and histopathological methods.",
+      "Our study of the numerical density of hepatocytes shows a significant difference between the diabetic control group and diabetic rats treated with telmisartan. Immunohistochemical staining for TGF-beta in liver sections of the diabetic rats treated with telmisartan showed no immunoreactivity. The diabetic control group was determined to be strongly immunoreactive to TGF-beta."
+    ],
+    "LABELS": [
+      "AIMS",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Alloxan",
+      "Angiotensin II Type 1 Receptor Blockers",
+      "Animals",
+      "Benzimidazoles",
+      "Benzoates",
+      "Diabetes Mellitus, Experimental",
+      "Fibrosis",
+      "Immunohistochemistry",
+      "Liver",
+      "Male",
+      "Microscopy, Electron",
+      "Rats",
+      "Rats, Wistar",
+      "Transforming Growth Factor beta"
+    ],
+    "YEAR": "2009",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Results suggest that telmisartan may reduce type-I diabetes mellitus-induced hepatic injury by suppressing activated hepatic stellate cells through concomitant TGF-beta1 down-regulation."
+  },
+  "8521557": {
+    "QUESTION": "The insertion allele of the ACE gene I/D polymorphism. A candidate gene for insulin resistance?",
+    "CONTEXTS": [
+      "The insertion/deletion (ID) polymorphism of the angiotensin-converting enzyme (ACE) gene has been associated with increased coronary heart disease (CHD), although the mechanism of this association is not apparent. We tested the hypothesis that the deletion allele of the ACE gene is associated with insulin resistance.",
+      "We related ACE genotype to components of the insulin-resistance syndrome in 103 non-insulin-dependent diabetic (NIDDM) and 533 nondiabetic white subjects. NIDDM subjects with the DD genotype had significantly lower levels of specific insulin (DD 38.6, ID 57.1, and II 87.4 pmol.L-1 by ANOVA, P = .011). Non-insulin-treated subjects with the DD genotype had increased insulin sensitivity by HOMA % (DD 56.4%, II 29.4%, P = .027) and lower levels of des 31,32 proinsulin (DD 3.3, II 7.6 pmol.L-1, P = .012) compared with II subjects. There were no differences in prevalence of CHD or levels of blood pressure, serum lipids, or plasminogen activator inhibitor-1 (PAI-1) activity between the three ACE genotypes. In nondiabetic subjects there were no differences in insulin sensitivity, levels of insulin-like molecules, blood pressure, PAI-1, serum lipids, or CHD prevalence between the three ACE genotypes."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "METHODS AND RESULTS"
+    ],
+    "MESHES": [
+      "Alleles",
+      "Case-Control Studies",
+      "Coronary Disease",
+      "DNA Transposable Elements",
+      "Diabetes Mellitus, Type 2",
+      "Diabetic Angiopathies",
+      "Female",
+      "Genotype",
+      "Humans",
+      "Insulin Resistance",
+      "Male",
+      "Middle Aged",
+      "Peptidyl-Dipeptidase A",
+      "Plasminogen Activator Inhibitor 1",
+      "Polymerase Chain Reaction",
+      "Polymorphism, Genetic"
+    ],
+    "YEAR": "1995",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "We conclude that increased cardiovascular risk of the DD genotype is not mediated through insulin resistance or abnormalities in fibrinolysis. Conversely, we report an increased sensitivity in NIDDM subjects with the ACE DD genotype."
+  },
+  "8738894": {
+    "QUESTION": "Diabetes mellitus among Swedish art glass workers--an effect of arsenic exposure?",
+    "CONTEXTS": [
+      "The purpose of this study was to search for evidence of an association between occupational arsenic exposure and diabetes mellitus, as implied by the relation of this disease to arsenic in drinking water in a recent study from Taiwan.",
+      "A case-referent analysis on death records of 5498 individuals in the art glass producing part of southeastern Sweden was performed. Out of all the enrolled subjects, 888 were glass workers. According to occupational title, glassblowers, foundry workers, and unspecified workers were regarded as potentially exposed to arsenic. Persons with a diagnosis of diabetes mellitus either as an underlying or contributing cause of death were considered cases. Referents were decedents without any indication of cancer, cardiovascular disease, or diabetes.",
+      "A slightly elevated risk [Mantel-Haenszel odds ratio (MH-OR) 1.2, 95% confidence interval (95% CI) 0.82-1.8] was found for diabetes mellitus among the glassworks employees, especially in combination with cardiovascular disease (MH-OR 1.4, 95% CI 0.81-2.3). For the glassblowers, other foundry workers and unspecified glassworkers probably exposed to arsenic, the M-H odds ratio was 1.4 (95% CI 0.92-2.2). Unspecified glass workers, who probably included persons with high exposure, carried the higher risk (MH-OR 1.8, 95% CI 1.1-2.8)."
+    ],
+    "LABELS": [
+      "OBJECTIVES",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Age Distribution",
+      "Aged",
+      "Arsenic",
+      "Cause of Death",
+      "Diabetes Complications",
+      "Diabetes Mellitus",
+      "Glass",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Occupational Exposure",
+      "Occupations",
+      "Poisons",
+      "Retrospective Studies",
+      "Risk Assessment",
+      "Sweden"
+    ],
+    "YEAR": "1996",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "The observations from this study provide limited support for the possibility that occupational arsenic exposure could play a role in the development of diabetes mellitus. Many other metallic compounds are also used in art glass production, however, and there is a possibility of confounding."
+  },
+  "20011163": {
+    "QUESTION": "Can Roux-en-Y gastric bypass provide a lifelong solution for diabetes mellitus?",
+    "CONTEXTS": [
+      "The surgical treatment of diabetes had witnessed progressive development and success since the first case of pancreatic transplantation. Although this was a great step, wide clinical application was limited by several factors. Bariatric surgery such as gastric bypass is emerging as a promising option in obese patients with type 2 diabetes. The aim of this article is to explore the current application of gastric bypass in patients with type 2 diabetes and the theoretical bases of gastric bypass as a treatment option for type 1 diabetes.",
+      "We performed a MEDLINE search for articles published from August 1955 to December 2008 using the words \"surgical treatment of diabetes,\" \"etiology of diabetes\" and \"gastric bypass.\"",
+      "We identified 3215 studies and selected 72 relevant papers for review. Surgical treatment of diabetes is evolving from complex pancreatic and islets transplantation surgery for type 1 diabetes with critical postoperative outcome and follow-up to a metabolic surgery, including gastric bypass. Gastric bypass (no immune suppression or graft rejection) has proven to be highly effective treatment for obese patients and nonobese animals with type 2 diabetes. There are certain shared criteria between types 1 and 2 diabetes, making a selected spectrum of the disease a potential target for metabolic surgery to improve or cure diabetes."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Diabetes Mellitus, Type 1",
+      "Diabetes Mellitus, Type 2",
+      "Gastric Bypass",
+      "Humans",
+      "Obesity, Morbid"
+    ],
+    "YEAR": "2009",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Roux-en-Y gastric bypass is a promising option for lifelong treatment of type 2 diabetes. It has the potential to improve or cure a selected spectrum of type 1 diabetes when performed early in the disease. Further animal model studies or randomized controlled trials are needed to support our conclusion."
+  }
+}
