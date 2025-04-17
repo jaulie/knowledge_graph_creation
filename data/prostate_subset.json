@@ -1,0 +1,583 @@
+{
+  "23806388": {
+    "QUESTION": "Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?",
+    "CONTEXTS": [
+      "To examine the ability of various postoperative nomograms to predict prostate cancer-specific mortality (PCSM) and to validate that they could predict aggressive biochemical recurrence (BCR). Prostate-specific antigen (PSA), grade, and stage are the classic triad used to predict BCR after radical prostatectomy (RP). Multiple nomograms use these to predict risk of BCR. A previous study showed that several nomograms could predict aggressive BCR (prostate-specific antigen doubling time [PSADT]\u00a0<9 months) more accurately than BCR. However, it remains unknown if they can predict more definitive endpoints, such as PCSM.",
+      "We performed Cox analyses to examine the ability of 4 postoperative nomograms, the Duke Prostate Center (DPC) nomogram, the Kattan postoperative nomogram, the Johns Hopkins Hospital (JHH) nomogram, and the joint Center for Prostate Disease Research(CPDR)/Cancer of the Prostate Strategic Urologic Research Endeavor (CaPSURE) nomogram to predict BCR and PCSM among 1778 men in the Shared Equal Access Regional Cancer Hospital (SEARCH) database who underwent RP between 1990 and 2009. We also compared their ability to predict BCR and aggressive BCR in a subset of men. We calculated the c-index for each nomogram to determine its predictive accuracy for estimating actual outcomes.",
+      "We found that each nomogram could predict aggressive BCR and PCSM in a statistically significant manner and that they all predicted PCSM more accurately than they predicted BCR (ie, with higher c-index values)."
+    ],
+    "LABELS": [
+      "OBJECTIVE",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Neoplasm Grading",
+      "Neoplasm Recurrence, Local",
+      "Neoplasm Staging",
+      "Nomograms",
+      "Predictive Value of Tests",
+      "Proportional Hazards Models",
+      "Prostate-Specific Antigen",
+      "Prostatectomy",
+      "Prostatic Neoplasms",
+      "Time Factors"
+    ],
+    "YEAR": "2013",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Currently available nomograms used to predict BCR accurately predict PCSM and other more clinically relevant endpoints. Moreover, not only do they significantly predict PCSM, but do so with generally greater accuracy than BCR."
+  },
+  "14697414": {
+    "QUESTION": "Is there a favorable subset of patients with prostate cancer who develop oligometastases?",
+    "CONTEXTS": [
+      "To analyze, retrospectively, the patterns and behavior of metastatic lesions in prostate cancer patients treated with external beam radiotherapy and to investigate whether patients with<or =5 lesions had an improved outcome relative to patients with>5 lesions.",
+      "The treatment and outcome of 369 eligible patients with Stage T1-T3aN0-NXM0 prostate cancer were analyzed during a minimal 10-year follow-up period. All patients were treated with curative intent to a mean dose of 65 Gy. The full history of any metastatic disease was documented for each subject, including the initial site of involvement, any progression over time, and patient survival.",
+      "The overall survival rate for the 369 patients was 75% at 5 years and 45% at 10 years. The overall survival rate of patients who never developed metastases was 90% and 81% at 5 and 10 years, respectively. However, among the 74 patients (20%) who developed metastases, the survival rate at both 5 and 10 years was significantly reduced (p<0.0001). The overall survival rate for patients who developed bone metastases was 58% and 27% at 5 and 10 years, respectively, and patients with bone metastases to the pelvis fared worse compared with those with vertebral metastases. With regard to the metastatic number, patients with<or =5 metastatic lesions had superior survival rates relative to those with>5 lesions (73% and 36% at 5 and 10 years vs. 45% and 18% at 5 and 10 years, respectively; p = 0.02). In addition, both the metastasis-free survival rate and the interval measured from the date of the initial diagnosis of prostate cancer to the development of bone metastasis were statistically superior for patients with<or =5 lesions compared with patients with>5 lesions (p = 0.01 and 0.02, respectively). However, the survival rate and the interval from the date of diagnosis of bone metastasis to the time of death for patients in both groups were not significantly different, statistically (p = 0.17 and 0.27, respectively)."
+    ],
+    "LABELS": [
+      "OBJECTIVE",
+      "METHODS AND MATERIALS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Aged, 80 and over",
+      "Androgen Antagonists",
+      "Antineoplastic Agents, Hormonal",
+      "Bone Neoplasms",
+      "Brain Neoplasms",
+      "Humans",
+      "Liver Neoplasms",
+      "Lung Neoplasms",
+      "Male",
+      "Middle Aged",
+      "Neoplasm Staging",
+      "Orchiectomy",
+      "Prostatic Neoplasms",
+      "Retrospective Studies",
+      "Survival Rate",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2004",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Patients with<or =5 metastatic sites had significantly better survival rates than patients with>5 lesions. Because existing sites of metastatic disease may be the primary sites of origin for additional metastases, our findings suggest that early detection and aggressive treatment of patients with a small number of metastatic lesions is worth testing as an approach to improving long-term survival."
+  },
+  "17008699": {
+    "QUESTION": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+    "CONTEXTS": [
+      "Examine whether patients with prostate cancer choose the more aggressive of two radiotherapeutic options, whether this choice is reasoned, and what the determinants of the choice are.",
+      "One hundred fifty patients with primary prostate cancer (T(1-3)N(0)M(0)) were informed by means of a decision aid of two treatment options: radiotherapy with 70 Gy versus 74 Gy. The latter treatment is associated with more cure and more toxicity. The patients were asked whether they wanted to choose, and if so which treatment they preferred. They also assigned importance weights to the probability of various outcomes, such as survival, cure and adverse effects. Patients who wanted to choose their own treatment (n = 119) are described here.",
+      "The majority of these patients (75%) chose the lower radiation dose. Their choice was highly consistent (P<or = .001), with the importance weights assigned to the probability of survival, cure (odds ratio [OR] = 6.7 and 6.9) and late GI and genitourinary adverse effects (OR = 0.1 and 0.2). The lower dose was chosen more often by the older patients, low-risk patients, patients without hormone treatment, and patients with a low anxiety or depression score."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "PATIENTS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Aged, 80 and over",
+      "Anxiety",
+      "Decision Making",
+      "Depression",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Odds Ratio",
+      "Patient Satisfaction",
+      "Prostatic Neoplasms",
+      "Radiometry",
+      "Radiotherapy Planning, Computer-Assisted",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2006",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "Most patients with localized prostate cancer prefer the lower radiation dose. Our findings indicate that many patients attach more weight to specific quality-of-life aspects (eg, GI toxicity) than to improving survival. Treatment preferences of patients with localized prostate cancer can and should be involved in radiotherapy decision making."
+  },
+  "19836806": {
+    "QUESTION": "Should prostate specific antigen be adjusted for body mass index?",
+    "CONTEXTS": [
+      "Obesity may be associated with lower prostate specific antigen through hemodilution. We examined the relationship between body mass index and prostate specific antigen by age in men without prostate cancer in a longitudinal aging study to determine whether prostate specific antigen must be adjusted for body mass index.",
+      "The study population included 994 men (4,937 observations) without prostate cancer in the Baltimore Longitudinal Study of Aging. Mixed effects models were used to examine the relationship between prostate specific antigen and body mass index in kg/m(2) by age. Separate models were explored in men with prostate cancer censored at diagnosis, for percent body fat measurements, for weight changes with time and adjusting for initial prostate size in 483 men (2,523 observations) with pelvic magnetic resonance imaging measurements.",
+      "In men without prostate cancer body mass index was not significantly associated with prostate specific antigen after adjusting for age (p = 0.06). A 10-point body mass index increase was associated with a prostate specific antigen difference of -0.03 ng/ml (95% CI -0.40-0.49). Results were similar when men with prostate cancer were included, when percent body fat was substituted for body mass index, and after adjusting for prostate volume. Longitudinal weight changes also had no significant association with prostate specific antigen."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "MATERIALS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Body Mass Index",
+      "Humans",
+      "Longitudinal Studies",
+      "Male",
+      "Middle Aged",
+      "Prostate-Specific Antigen",
+      "Young Adult"
+    ],
+    "YEAR": "2009",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "Consistent with prior studies, we found an inverse relationship between obesity and serum prostate specific antigen. However, the magnitude of the difference was small. Thus, adjusting prostate specific antigen for body mass index does not appear warranted."
+  },
+  "12947068": {
+    "QUESTION": "Do older men benefit from curative therapy of localized prostate cancer?",
+    "CONTEXTS": [
+      "Prior decision-analytic models are based on outdated or suboptimal efficacy, patient preference, and comorbidity data. We estimated life expectancy (LE) and quality-adjusted life expectancy (QALE) associated with available treatments for localized prostate cancer in men aged>/= 65 years, adjusting for Gleason score, patient preferences, and comorbidity.",
+      "We evaluated three treatments, using a decision-analytic Markov model: radical prostatectomy (RP), external beam radiotherapy (EBRT), and watchful waiting (WW). Rates of treatment complications and pretreatment incontinence and impotence were derived from published studies. We estimated treatment efficacy using three data sources: cancer registry cohort data, pooled case series, and modern radiotherapy studies. Utilities were obtained from 141 prostate cancer patients and from published studies.",
+      "For men with well-differentiated tumors and few comorbidities, potentially curative therapy (RP or EBRT) prolonged LE up to age 75 years but did not improve QALE at any age. For moderately differentiated cancers, potentially curative therapy resulted in LE and QALE gains up to age 75 years. For poorly differentiated disease, potentially curative therapy resulted in LE and QALE gains up to age 80 years. Benefits of potentially curative therapy were restricted to men with no worse than mild comorbidity. When cohort and pooled case series data were used, RP was preferred over EBRT in all groups but was comparable to modern radiotherapy."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Aged, 80 and over",
+      "Comorbidity",
+      "Decision Support Techniques",
+      "Humans",
+      "Life Expectancy",
+      "Male",
+      "Markov Chains",
+      "Postoperative Complications",
+      "Prostatectomy",
+      "Prostatic Neoplasms",
+      "Quality of Life",
+      "Radiotherapy",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2003",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Potentially curative therapy results in significantly improved LE and QALE for older men with few comorbidities and moderately or poorly differentiated localized prostate cancer. Age should not be a barrier to treatment in this group."
+  },
+  "25787073": {
+    "QUESTION": "Do preoperative serum C-reactive protein levels predict the definitive pathological stage in patients with clinically localized prostate cancer?",
+    "CONTEXTS": [
+      "The serum C-reactive protein (CRP) level correlates with the clinical prognosis in patients with kidney, penile and metastatic castration-resistant prostate cancer (PC). We prospectively evaluated the preoperative CRP level as a predictive marker for an advanced tumor stage or high-grade cancer in patients with clinically localized PC.",
+      "The study evaluated 629 patients with clinically localized PC who underwent radical prostatectomy between 2010 and 2013. Exclusion criteria were signs of systemic infection, symptoms of an autoimmune disease or neoadjuvant androgen deprivation.",
+      "Poorly differentiated PC tends to be more common in patients with elevated CRP levels (15.5 vs. 9.5%, p = 0.08). Analogously, patients with a Gleason score \u22658 PC had significantly higher median CRP levels than those with a Gleason score \u22647 PC (1.9 vs. 1.2 mg/l, p = 0.03). However, neither uni- nor multivariate analysis showed an association between the preoperative CRP level and the presence of a locally advanced tumor stage, lymph node metastases or a positive surgical margin. CRP also failed to correlate with the initial PSA level and the clinical tumor-associated findings. Moreover, multivariate analysis relativized the association between an elevated CRP level and poor tumor differentiation."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adenocarcinoma",
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "C-Reactive Protein",
+      "Digital Rectal Examination",
+      "Humans",
+      "Lymphatic Metastasis",
+      "Male",
+      "Middle Aged",
+      "Neoplasm Grading",
+      "Neoplasm Staging",
+      "Neoplasm, Residual",
+      "Predictive Value of Tests",
+      "Preoperative Period",
+      "Prospective Studies",
+      "Prostate-Specific Antigen",
+      "Prostatectomy",
+      "Prostatic Neoplasms"
+    ],
+    "YEAR": "2015",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "In patients with clinically localized PC, CRP does not appear to possess the predictive value and it was shown to have patients with other tumor entities or advanced PC."
+  },
+  "18399830": {
+    "QUESTION": "Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?",
+    "CONTEXTS": [
+      "To evaluate whether robotically assisted laparoscopic prostatectomy (RALP) is less invasive than radical retropubic prostatectomy (RRP), as experimental studies suggest that the acute phase reaction is proportional to surgery-induced tissue damage.",
+      "Between May and November 2006, all patients undergoing RRP or RALP in our department were prospectively assessed. Blood samples were collected 24 h before (T0), during surgery (T1), at the end of anaesthesia (T2), and 12 (T3) and 24 h after surgery (T4), and assayed for interleukin(IL)-6 and IL-1 alpha, C-reactive protein (CRP), and lactate. The Mann-Whitney U-, Student's t- and Friedman tests were used to compare continuous variables, and the Pearson chi-square and Fisher test for categorical variables, with a two-sided P<0.05 considered to indicate significance.",
+      "In all, 35 and 26 patients were assessed for RALP and RRP, respectively; the median (interquartile range) age was 62 (56-68) and 68.5 (59.2-71.2) years, respectively (P<0.009). Baseline levels (T0) of IL-1, IL-6, CRP and lactate were comparable in both arms. IL-6, CRP and lactates levels increased during both kinds of surgery. The mean IL-6 and CPR values were higher for RRP at T1 (P = 0.01 and 0.001), T2 (P = 0.001 and<0.001), T3 (P = 0.002 and<0.001) and T4 (P<0.001 and 0.02), respectively. Lactate was higher for RRP at T2 (P = 0.001), T3 (P = 0.001) and T4 (P = 0.004), although remaining within the normal ranges. IL-1 alpha did not change at the different sample times."
+    ],
+    "LABELS": [
+      "OBJECTIVES",
+      "PATIENTS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Acute-Phase Reaction",
+      "Aged",
+      "C-Reactive Protein",
+      "Humans",
+      "Interleukin-1alpha",
+      "Interleukin-6",
+      "Lactic Acid",
+      "Laparoscopy",
+      "Male",
+      "Middle Aged",
+      "Postoperative Complications",
+      "Prospective Studies",
+      "Prostatectomy",
+      "Prostatic Neoplasms",
+      "Robotics",
+      "Statistics, Nonparametric",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2008",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "This study showed for the first time that RALP induces lower tissue trauma than RRP."
+  },
+  "14713788": {
+    "QUESTION": "Is year of radical prostatectomy a predictor of outcome in prostate cancer?",
+    "CONTEXTS": [
+      "We examined whether the year in which radical prostatectomy (RP) was performed is a predictor of treatment outcome after controlling for standard prognostic factors.",
+      "We examined the association between RP year and outcome in 6,556 patients from 7 centers using preoperative and pathological features. Patients underwent surgery between 1985 and 2000. The variables analyzed were RP year, clinical stage, pretreatment prostate specific antigen, biopsy Gleason sum, RP Gleason sum, margin status, level of extracapsular extension, seminal vesicle status, lymph node status, neoadjuvant hormones and adjuvant therapy. Median followup was 23 months (maximum 166). Separate Cox multivariate regression analyses were performed to analyze preoperative and postoperative factors.",
+      "RP year was a predictor of outcome on preoperative analysis (p = 0.006) but not on postoperative analysis (p = 0.130). Patient outcome steadily improved with surgery through the mid 1990s and then it appeared to level off."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "MATERIALS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Follow-Up Studies",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Prostatectomy",
+      "Prostatic Neoplasms",
+      "Time Factors",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2004",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "When controlling for preoperative features, the year in which RP was performed is a predictor of outcome on multivariate analysis. This effect could not be explained by stage migration."
+  },
+  "18472368": {
+    "QUESTION": "Does treatment duration affect outcome after radiotherapy for prostate cancer?",
+    "CONTEXTS": [
+      "The protraction of external beam radiotherapy (RT) time is detrimental in several disease sites. In prostate cancer, the overall treatment time can be considerable, as can the potential for treatment breaks. We evaluated the effect of elapsed treatment time on outcome after RT for prostate cancer.",
+      "Between April 1989 and November 2004, 1,796 men with prostate cancer were treated with RT alone. The nontreatment day ratio (NTDR) was defined as the number of nontreatment days divided by the total elapsed days of RT. This ratio was used to account for the relationship between treatment duration and total RT dose. Men were stratified into low risk (n = 789), intermediate risk (n = 798), and high risk (n = 209) using a single-factor model.",
+      "The 10-year freedom from biochemical failure (FFBF) rate was 68% for a NTDR<33% vs. 58% for NTDR>/=33% (p = 0.02; BF was defined as a prostate-specific antigen nadir + 2 ng/mL). In the low-risk group, the 10-year FFBF rate was 82% for NTDR<33% vs. 57% for NTDR>/=33% (p = 0.0019). The NTDR was independently predictive for FFBF (p = 0.03), in addition to T stage (p = 0.005) and initial prostate-specific antigen level (p<0.0001) on multivariate analysis, including Gleason score and radiation dose. The NTDR was not a significant predictor of FFBF when examined in the intermediate-risk group, high-risk group, or all risk groups combined."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "METHODS AND MATERIALS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Humans",
+      "Male",
+      "Neoplasm Staging",
+      "Physical Examination",
+      "Prostatic Neoplasms",
+      "Radiotherapy",
+      "Radiotherapy, Conformal",
+      "Retrospective Studies",
+      "Risk Assessment",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2008",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "A proportionally longer treatment duration was identified as an adverse factor in low-risk patients. Treatment breaks resulting in a NTDR of>/=33% (e.g., four or more breaks during a 40-fraction treatment, 5 d/wk) should be avoided."
+  },
+  "15466981": {
+    "QUESTION": "Prostate-specific antigen and free prostate-specific antigen in the early detection of prostate cancer: do combination tests improve detection?",
+    "CONTEXTS": [
+      "The combined use of free and total prostate-specific antigen (PSA) in early detection of prostate cancer has been controversial. This article systematically evaluates the discriminating capacity of a large number of combination tests.",
+      "Free and total PSA were analyzed in stored serum samples taken prior to diagnosis in 429 cases and 1,640 controls from the Physicians' Health Study. We used a classification algorithm called logic regression to search for clinically useful tests combining total and percent free PSA and receiver operating characteristic analysis and compared these tests with those based on total and complexed PSA. Data were divided into training and test subsets. For robustness, we considered 35 test-train splits of the original data and computed receiver operating characteristic curves for each test data set.",
+      "The average area under the receiver operating characteristic curve across test data sets was 0.74 for total PSA and 0.76 for the combination tests. Combination tests with higher sensitivity and specificity than PSA>4.0 ng/mL were identified 29 out of 35 times. All these tests extended the PSA reflex range to below 4.0 ng/mL. Receiver operating characteristic curve analysis indicated that the overall diagnostic performance as expressed by the area under the curve did not differ significantly for the different tests."
+    ],
+    "LABELS": [
+      "BACKGROUND",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Case-Control Studies",
+      "Diagnosis, Differential",
+      "Humans",
+      "Male",
+      "Mass Screening",
+      "Middle Aged",
+      "Prostate-Specific Antigen",
+      "Prostatic Neoplasms",
+      "Reference Values",
+      "Sensitivity and Specificity"
+    ],
+    "YEAR": "2004",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Tests combining total and percent free PSA show modest overall improvements over total PSA. However, utilization of percent free PSA below a PSA threshold of 4 ng/mL could translate into a practically important reduction in unnecessary biopsies without sacrificing cancers detected."
+  },
+  "23792130": {
+    "QUESTION": "Can magnetic resonance-ultrasound fusion biopsy improve cancer detection in enlarged prostates?",
+    "CONTEXTS": [
+      "Patients with an enlarged prostate and suspicion of prostate cancer pose a diagnostic dilemma. The prostate cancer detection rate of systematic 12-core transrectal ultrasound guided biopsy is between 30% and 40%. For prostates greater than 40 cc this decreases to 30% or less. Magnetic resonance-ultrasound fusion biopsy has shown superior prostate cancer detection rates. We defined the detection rate of magnetic resonance-ultrasound fusion biopsy in men with an enlarged prostate gland.",
+      "We retrospectively analyzed the records of patients who underwent multiparametric prostate magnetic resonance imaging followed by magnetic resonance-ultrasound fusion biopsy at our institution. Whole prostate volumes were calculated using magnetic resonance imaging reconstructions. Detection rates were analyzed with respect to age, prostate specific antigen and whole prostate volumes. Multivariable logistic regression was used to assess these parameters as independent predictors of prostate cancer detection.",
+      "We analyzed 649 patients with a mean\u00b1SD age of 61.8\u00b17.9 years and a median prostate specific antigen of 6.65 ng/ml (IQR 4.35-11.0). Mean whole prostate volume was 58.7\u00b134.3 cc. The overall detection rate of the magnetic resonance-ultrasound fusion platform was 55%. For prostates less than 40 cc the detection rate was 71.1% compared to 57.5%, 46.9%, 46.9% 33.3%, 36.4% and 30.4% for glands 40 to 54.9, 55 to 69.9, 70 to 84.9, 85 to 99.9, 100 to 114.9 and 115 cc or greater, respectively (p<0.0001). Multivariable logistic regression showed a significant inverse association of magnetic resonance imaging volume with prostate cancer detection, controlling for age and prostate specific antigen."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "MATERIALS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Biopsy, Needle",
+      "Humans",
+      "Magnetic Resonance Imaging",
+      "Male",
+      "Middle Aged",
+      "Multimodal Imaging",
+      "Prostatic Hyperplasia",
+      "Prostatic Neoplasms",
+      "Retrospective Studies",
+      "Ultrasonography, Interventional"
+    ],
+    "YEAR": "2013",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Transrectal ultrasound guided and fusion biopsy cancer detection rates decreased with increasing prostate volume. However, magnetic resonance-ultrasound fusion biopsy had a higher prostate cancer detection rate compared to that of transrectal ultrasound guided biopsy in the literature. Magnetic resonance-ultrasound fusion biopsy represents a promising solution for patients with suspicion of prostate cancer and an enlarged prostate."
+  },
+  "23453079": {
+    "QUESTION": "Does prostate morphology affect outcomes after holmium laser enucleation?",
+    "CONTEXTS": [
+      "To determine whether prostate morphology or technique used has any effect on postoperative outcomes after holmium laser enucleation of the prostate.",
+      "A retrospective review of prospectively collected data was completed for all patients undergoing a holmium laser enucleation of the prostate at our institution. Prostate morphology was classified as either \"bilobar\" or \"trilobar\" according to the cystoscopic appearance. The baseline characteristics, complications, and postoperative outcomes were collected.",
+      "A total of 304 patients with either \"bilobar\" (n\u00a0= 142) or \"trilobar\" (n\u00a0= 162) prostate morphology were included. The trilobar group was more likely to have longer operative times (112 vs 100 minutes, P\u00a0= .04), although this difference was not significant on multivariate analysis. The postoperative outcomes were similar between the 2 groups for American Urological Association symptom score, change in American Urological Association symptom score, bother score, maximal flow rate, change in maximal flow rate, postvoid residual urine volume, and complication rate. However, the trilobar group had a significantly greater decrease in their PVR urine volume (296 vs 176 mL, P\u00a0= .01), a difference that persisted on multivariate analysis. A subset analysis of the trilobar prostates revealed that performing a 2-lobe technique achieved shorter operative and enucleation times, although the difference was not significant."
+    ],
+    "LABELS": [
+      "OBJECTIVE",
+      "MATERIALS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Humans",
+      "Laser Therapy",
+      "Lasers, Solid-State",
+      "Male",
+      "Middle Aged",
+      "Prostate",
+      "Prostatectomy",
+      "Prostatic Hyperplasia",
+      "Retrospective Studies",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2013",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "Those patients with trilobar prostate morphology are more likely to achieve a greater decrease in the PVR urine volume after holmium laser enucleation of the prostate. All other outcomes appeared to be similar between the 2 groups. In addition, a 2-lobe technique can be safely used for trilobar prostates when deemed feasible by the surgeon."
+  },
+  "27909738": {
+    "QUESTION": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?",
+    "CONTEXTS": [
+      "Using high-quality CT-on-rails imaging, the daily motion of the prostate bed clinical target volume (PB-CTV) based on consensus Radiation Therapy Oncology Group (RTOG) definitions (instead of surgical clips/fiducials) was studied. It was assessed whether PB motion in the superior portion of PB-CTV (SUP-CTV) differed from the inferior PB-CTV (INF-CTV).",
+      "Eight pT2-3bN0-1M0 patients underwent postprostatectomy intensity-modulated radiotherapy, totaling 300\u00a0fractions. INF-CTV and SUP-CTV were defined as PB-CTV located inferior and superior to the superior border of the pubic symphysis, respectively. Daily pretreatment CT-on-rails images were compared to the planning CT in the left-right (LR), superoinferior (SI), and anteroposterior (AP) directions. Two parameters were defined: \"total PB-CTV motion\" represented total shifts from skin tattoos to RTOG-defined anatomic areas; \"PB-CTV target motion\" (performed for both SUP-CTV and INF-CTV) represented shifts from bone to RTOG-defined anatomic areas (i.\u2009e., subtracting shifts from skin tattoos to bone).",
+      "Mean (\u00b1 standard deviation, SD) total PB-CTV motion was -1.5\u00a0(\u00b1\u202f6.0), 1.3\u00a0(\u00b1\u202f4.5), and 3.7\u00a0(\u00b1\u202f5.7)\u00a0mm in LR, SI, and AP directions, respectively. Mean (\u00b1\u202fSD) PB-CTV target motion was 0.2\u00a0(\u00b11.4), 0.3\u00a0(\u00b12.4), and 0\u00a0(\u00b13.1)\u00a0mm in the LR, SI, and AP directions, respectively. Mean (\u00b1\u202fSD) INF-CTV target motion was 0.1\u00a0(\u00b1\u202f2.8), 0.5\u00a0(\u00b1\u202f2.2), and 0.2 (\u00b1\u202f2.5)\u00a0mm, and SUP-CTV target motion was 0.3\u00a0(\u00b1\u202f1.8), 0.5\u00a0(\u00b1\u202f2.3), and 0\u00a0(\u00b1\u202f5.0)\u00a0mm in LR, SI, and AP directions, respectively. No statistically significant differences between INF-CTV and SUP-CTV motion were present in any direction."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "PATIENTS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Artifacts",
+      "Guideline Adherence",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Motion",
+      "Patient Positioning",
+      "Practice Guidelines as Topic",
+      "Radiation Oncology",
+      "Radiotherapy Dosage",
+      "Radiotherapy Planning, Computer-Assisted",
+      "Radiotherapy, Image-Guided",
+      "Radiotherapy, Intensity-Modulated",
+      "Reproducibility of Results",
+      "Sensitivity and Specificity",
+      "Tomography, X-Ray Computed",
+      "Treatment Outcome",
+      "Tumor Burden",
+      "United States"
+    ],
+    "YEAR": "2017",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "no",
+    "final_decision": "no",
+    "LONG_ANSWER": "There are no statistically apparent motion differences between SUP-CTV and INF-CTV. Current uniform planning target volume (PTV) margins are adequate to cover both portions of the CTV."
+  },
+  "24318956": {
+    "QUESTION": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?",
+    "CONTEXTS": [
+      "Digoxin is a commonly used medication for heart failure and cardiac arrhythmias that has recently been suggested as a novel chemotherapeutic agent. Preclinical studies of prostate cancer (PCa) have shown anti-tumor activity with digoxin. We explore the relationship between use of digoxin and PCa risk.",
+      "Data from a population-based case-control study of incident cases aged 35-74 years at PCa diagnosis in 2002-2005 in King County, Washington were available. Controls were identified by random digit dialing and frequency matched by age. Use of digoxin was determined from in-person questionnaires regarding medical and prescription history. The relationship of digoxin use with PCa risk was evaluated with logistic regression.",
+      "One thousand one cases of PCa and 942 controls were analyzed. The prevalence of digoxin use in controls was 2.7%, and use was positively correlated with age. In multivariate analysis adjusting for age, race, PSA screening, and family history of PCa, digoxin use was associated with a reduction in the odds ratio of PCa (OR 0.58, 95% CI: 0.30-1.10). Among those with \u22653 PSA tests over the preceding 5 years (546 cases, 380 controls), digoxin use was associated with a stronger reduction of PCa risk (OR 0.44, 95% CI: 0.20-0.98)."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adult",
+      "Aged",
+      "Cardiovascular Diseases",
+      "Case-Control Studies",
+      "Digoxin",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Population Surveillance",
+      "Prostatic Neoplasms",
+      "Risk Factors"
+    ],
+    "YEAR": "2014",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "These data indicate digoxin use may be associated with a reduction in risk of PCa. Given the potential mechanisms by which digoxin may exert an anti-neoplastic effect and other recent studies showing a negative association between digoxin use and PCa, further research is warranted."
+  },
+  "18568239": {
+    "QUESTION": "Is the ability to perform transurethral resection of the prostate influenced by the surgeon's previous experience?",
+    "CONTEXTS": [
+      "To evaluate the influence of the urologist's experience on the surgical results and complications of transurethral resection of the prostate (TURP).",
+      "Sixty-seven patients undergoing transurethral resection of the prostate without the use of a video camera were randomly allocated into three groups according to the urologist's experience: a urologist having done 25 transurethral resections of the prostate (Group I - 24 patients); a urologist having done 50 transurethral resections of the prostate (Group II - 24 patients); a senior urologist with vast transurethral resection of the prostate experience (Group III - 19 patients). The following were recorded: the weight of resected tissue, the duration of the resection procedure, the volume of irrigation used, the amount of irrigation absorbed and the hemoglobin and sodium levels in the serum during the procedure.",
+      "There were no differences between the groups in the amount of irrigation fluid used per operation, the amount of irrigation fluid absorbed or hematocrit and hemoglobin variation during the procedure. The weight of resected tissue per minute was approximately four times higher in group III than in groups I and II. The mean absorbed irrigation fluid was similar between the groups, with no statistical difference between them (p=0.24). Four patients (6%) presented with TUR syndrome, without a significant difference between the groups."
+    ],
+    "LABELS": [
+      "PURPOSE",
+      "PATIENTS AND METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Anti-Infective Agents, Local",
+      "Clinical Competence",
+      "Ethanol",
+      "Humans",
+      "Hyponatremia",
+      "Indicators and Reagents",
+      "Male",
+      "Middle Aged",
+      "Organ Size",
+      "Prospective Studies",
+      "Prostate",
+      "Quality of Health Care",
+      "Sorbitol",
+      "Statistics, Nonparametric",
+      "Syndrome",
+      "Time Factors",
+      "Transurethral Resection of Prostate",
+      "Urology"
+    ],
+    "YEAR": "2008",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "The senior urologist was capable of resecting four times more tissue per time unit than the more inexperienced surgeons. Therefore, a surgeon's experience may be important to reduce the risk of secondary TURP due to recurring adenomas or adenomas that were incompletely resected. However, the incidence of complications was the same between the three groups."
+  },
+  "25735444": {
+    "QUESTION": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+    "CONTEXTS": [
+      "A multicentre, retrospective study was conducted of patients with rectal cancer threatening or affecting the prostatic plane, but not the bladder, judged by magnetic resonance imaging (MRI). The use of preoperative chemoradiotherapy and the type of urologic resection were correlated with the status of the pathological circumferential resection margin (CRM) and local recurrence.",
+      "A consecutive series of 126 men with rectal cancer threatening (44) or affecting (82) the prostatic plane on preoperative staging and operated with local curative intent between 1998 and 2010 was analysed. In patients who did not have chemoradiotherapy but had a preoperative threatened anterior margin the CRM-positive rate was 25.0%. In patients who did not have preoperative chemoradiotherapy but did have an affected margin, the CRM-positive rate was 41.7%. When preoperative radiotherapy was given, the respective CRM infiltration rates were 7.1 and 20.7%. In patients having preoperative chemoradiotherapy followed by prostatic resection the rate of CRM positivity was 2.4%. Partial prostatectomy after preoperative chemoradiotherapy resulted in a free anterior CRM in all cases, but intra-operative urethral damage occurred in 36.4% of patients who underwent partial prostatectomy, resulting in a postoperative urinary fistula in 18.2% of patients."
+    ],
+    "LABELS": [
+      "METHOD",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Aged",
+      "Chemoradiotherapy, Adjuvant",
+      "Humans",
+      "Magnetic Resonance Imaging",
+      "Male",
+      "Middle Aged",
+      "Neoadjuvant Therapy",
+      "Neoplasm Invasiveness",
+      "Neoplasm Recurrence, Local",
+      "Neoplasm, Residual",
+      "Prostate",
+      "Prostatectomy",
+      "Radiotherapy, Adjuvant",
+      "Rectal Neoplasms",
+      "Retrospective Studies",
+      "Urethra",
+      "Urinary Fistula"
+    ],
+    "YEAR": "2015",
+    "reasoning_required_pred": "no",
+    "reasoning_free_pred": "maybe",
+    "final_decision": "maybe",
+    "LONG_ANSWER": "Preoperative chemoradiation is mandatory in male patients with a threatened or affected anterior circumferential margin on preoperative MRI. In patients with preoperative prostatic infiltration, prostatic resection is necessary. In this group of patients partial prostatectomy seems to be oncologically safe."
+  },
+  "15708048": {
+    "QUESTION": "Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?",
+    "CONTEXTS": [
+      "To determine the effect of prior benign prostate biopsies on the surgical and clinical outcomes of patients treated with radical perineal prostatectomy for prostate cancer.",
+      "A total of 1369 patients with clinically localized prostate cancer underwent radical prostatectomy by a single surgeon between 1991 and 2001. A subset of 203 patients (14.9%), who had undergone at least one prior benign prostate biopsy for a rising prostate-specific antigen and/or abnormal digital rectal examination, constituted our study population. A total of 1115 patients with no prior biopsy represented our control group. After prostatectomy, patients were evaluated at 6-month intervals for biochemical evidence of recurrence, defined as a prostate-specific antigen level of 0.5 ng/mL or greater.",
+      "Patients with a prior benign biopsy had more favorable pathologic features with more organ-confined (74% versus 64%; P<0.001) and less margin-positive (9.8% versus 18%) disease. Only 24 patients (12%) in the study group (versus 20% in control group; P = 0.01) had eventual evidence of biochemical failure. Kaplan-Meier analyses suggested that patients with prior benign biopsies have improved biochemical disease-free survival, especially for those with more aggressive disease (Gleason sum 7 or greater; P<0.01). Overall, patients in the study group had lower probability (odds ratio 0.57, P<0.001) of biochemical failure compared with those in the control group."
+    ],
+    "LABELS": [
+      "OBJECTIVES",
+      "METHODS",
+      "RESULTS"
+    ],
+    "MESHES": [
+      "Adenocarcinoma",
+      "Aged",
+      "Biomarkers, Tumor",
+      "Biopsy",
+      "Cohort Studies",
+      "Disease-Free Survival",
+      "Follow-Up Studies",
+      "Humans",
+      "Life Tables",
+      "Male",
+      "Middle Aged",
+      "Neoplasm Proteins",
+      "Proportional Hazards Models",
+      "Prostate",
+      "Prostate-Specific Antigen",
+      "Prostatectomy",
+      "Prostatic Neoplasms",
+      "Treatment Outcome"
+    ],
+    "YEAR": "2005",
+    "reasoning_required_pred": "yes",
+    "reasoning_free_pred": "yes",
+    "final_decision": "yes",
+    "LONG_ANSWER": "A prior benign prostate biopsy may be independently associated with more favorable surgical and biochemical outcomes after prostatectomy. Additional studies are needed to confirm these findings."
+  }
+}
