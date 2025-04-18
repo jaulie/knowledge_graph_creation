@@ -14,11 +14,6 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_ollama import ChatOllama
 
-# Get environment variables for Neo4j
-os.environ["NEO4J_URI"] = "bolt://localhost:7687"
-os.environ["NEO4J_USERNAME"] = "neo4j"
-os.environ["NEO4J_PASSWORD"] = "neo4j_password"
-
 class HealthcareKGQA:
     def __init__(self, uri, user, password):
         self.driver = Neo4jGraph(uri, auth=(user, password)).driver
@@ -136,11 +131,10 @@ class HealthcareKGQA:
 # Main
 def main():
 
-    # File containing filepath to json file with questions
-    json_file = sys.argv[1] 
-
-    # Retrieve query from user
-    query = input("Please enter your question for the knowledge graph: ")
+    # Get environment variables for Neo4j
+    os.environ["NEO4J_URI"] = "bolt://localhost:7687"
+    os.environ["NEO4J_USERNAME"] = "neo4j"
+    os.environ["NEO4J_PASSWORD"] = "neo4j_password"
 
     # Create HealthcareKGQA object
     kgqa = HealthcareKGQA(os.environ.get("NEO4J_URI"), os.environ.get("NEO4J_USERNAME"), os.environ.get("NEO4J_PASSWORD"))
